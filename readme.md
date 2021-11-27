@@ -11,7 +11,7 @@
 
 ### Build command: 
 
-- docker build -t docker-ghoulpool-image .
+- docker build -t docker-whatever-image .
 
 ### List images:
 
